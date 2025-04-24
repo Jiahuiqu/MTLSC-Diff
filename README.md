@@ -18,6 +18,7 @@ Environment:
     python main main_PC_guide_.py
 
 # Cite
+```
 @article{qu2024mtlsc,
   title={MTLSC-Diff: Multitask learning with diffusion models for hyperspectral image super-resolution and classification},
   author={Qu, Jiahui and Xiao, Liusheng and Dong, Wenqian and Li, Yunsong},
@@ -27,3 +28,4 @@ Environment:
   year={2024},
   publisher={Elsevier}
 }
+```
